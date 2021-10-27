@@ -94,7 +94,7 @@ public class LinerRegression {
     }
     public static void main(String args[])
     {
-        double x[]={95,85,80,70,60};
+        double x[]={95,85,30,70,60};
         double y[]={85,95,70,65,70};
         LinerRegression linear=new LinerRegression();
         linear.LinearRegression(x, y);
@@ -104,8 +104,9 @@ public class LinerRegression {
         
     }
             }
-Result
-CPU Time: 0.12 sec(s), Memory: 35024 kilobyte(s)
+
+  Result
+CPU Time: 0.15 sec(s), Memory: 35628 kilobyte(s)
 compiled and 
-executed in 0.748 sec(s)
-Predicted Value is : 78.287671232876748.03218090889323 %
+executed in 0.909 sec(s)
+Predicted Value is : 80.889328063241142.18583349018131 %
