@@ -104,3 +104,8 @@ public class LinerRegression {
         
     }
             }
+Result
+CPU Time: 0.12 sec(s), Memory: 35024 kilobyte(s)
+compiled and 
+executed in 0.748 sec(s)
+Predicted Value is : 78.287671232876748.03218090889323 %
